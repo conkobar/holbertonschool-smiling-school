@@ -15,7 +15,7 @@
 /* #region HEADER */
 header {
   background-color: var(--color-black);
-  background-image: url('./images/images/pic_1.jpg');
+  background-image: url('./images/pic_1.jpg');
   /* background-size: cover; */ /* TODO: should be cover per gif? */
   background-repeat: no-repeat;
   background-position: center top;
@@ -82,15 +82,19 @@ h1 {
 }
 
 .carousel-control-prev-icon {
-  background-image: url('./images/images/arrow_white_left.png');
+  background-image: url('./images/arrow_white_left.png');
 }
 
 .carousel-control-next-icon {
-  background-image: url('./images/images/arrow_white_right.png');
+  background-image: url('./images/arrow_white_right.png');
 }
 
 /* #endregion */
 
-/* #region  */
+/* #region POPULAR VIDEOS */
+
+.purple {
+  color: var(--color-purple);
+}
 
 /* #endregion */
