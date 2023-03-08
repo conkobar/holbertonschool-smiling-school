@@ -8,10 +8,6 @@
 
 /* #endregion */
 
-/* #region BODY */
-
-/* #endregion */
-
 /* #region HEADER */
 header {
   background-color: var(--color-black);
@@ -289,4 +285,12 @@ h1 {
     visibility: visible;
   }
 }
+/* #endregion */
+
+/* #region FREE MEMBERSHIP */
+
+.membership {
+  background-color: var(--color-black);
+}
+
 /* #endregion */
