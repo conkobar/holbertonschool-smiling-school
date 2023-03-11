@@ -16,11 +16,12 @@
   background-position: center top;
 }
 
-#pricing-hero {
+#pricing-hero  {
   background-color: var(--color-black);
   background-image: url("./images/pic_2.jpg");
   background-repeat: no-repeat;
   background-position: center top;
+  color: #fff;
 }
 
 .profile-sm {
