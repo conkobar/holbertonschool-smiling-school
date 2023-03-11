@@ -9,16 +9,18 @@
 /* #endregion */
 
 /* #region HEADER */
-header {
+#homepage-head {
   background-color: var(--color-black);
   background-image: url('./images/pic_1.jpg');
-  /* background-size: cover; */ /* TODO: should be cover per gif? */
   background-repeat: no-repeat;
   background-position: center top;
 }
 
-#pricing {
+#pricing-hero {
+  background-color: var(--color-black);
   background-image: url("./images/pic_2.jpg");
+  background-repeat: no-repeat;
+  background-position: center top;
 }
 
 .profile-sm {
