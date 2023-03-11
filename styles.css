@@ -308,7 +308,15 @@ h1 {
 /*  #region FOOTER */
 
 footer {
-  background: white;
+  background: var(--color-black);
 }
+
+/* #endregion */
+
+/* #region PRICING */
+
+/* #pricing {
+  background-color: var(--color-black);
+} */
 
 /* #endregion */
