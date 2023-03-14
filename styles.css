@@ -4,6 +4,8 @@
 :root {
   --color-purple: #c271ff;
   --color-black: #071629;
+  --font-family: 'Source Sans Pro', serif;
+  --spinny-font: 'Spin Cycle OT', var(--font-family);
 }
 
 /* #endregion */
@@ -22,6 +24,18 @@
   background-repeat: no-repeat;
   background-position: center top;
   color: #fff;
+}
+
+#courses-hero {
+  background-color: var(--color-black);
+  background-image: url('./images/pic_3.jpg');
+  background-repeat: no-repeat;
+  background-position: center top;
+}
+
+#spincycle {
+  font-family: var(--spinny-font);
+  font-size: 2rem;
 }
 
 .profile-sm {
