@@ -38,6 +38,10 @@
   font-size: 2rem;
 }
 
+#results {
+  background-color: #fff;
+}
+
 .profile-sm {
   height: 150px;
   width: 150px;
